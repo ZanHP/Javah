@@ -5,7 +5,8 @@ public class Collatz {
 	public static void main(String[] args) {
 		// System.out.print(dolzina(6));
 		// System.out.print(najvecji(6));
-		zaporedje(6);
+		// zaporedje(6);
+		System.out.print(String.join("", "a", "b"));
 	}
 
 	public static int dolzina(int n) {
